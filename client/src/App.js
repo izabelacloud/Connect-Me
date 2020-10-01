@@ -23,6 +23,7 @@ import ManageOfferings from './components/ManageOfferings';
 import "./assets/scss/material-kit-react.scss?v=1.9.0";
 //Bootstrap
 import 'bootstrap/dist/css/bootstrap.min.css';
+//test
 
 import Components from "./views/Components/Components.js";
 import LandingPage from "./views/LandingPage/LandingPage.js";
